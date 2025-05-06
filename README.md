@@ -10,7 +10,7 @@
      alt="Cool banner of the Golang mascot" 
      style="width: 150%; height: 150%;" />
 
-### A Beginner Go Developer 🛠️, passionate about high-load & scalable 📈 backend systems ⚙️
+## A Beginner Go Developer 🛠️, passionate about high-load & scalable 📈 backend systems ⚙️
 
 ## 🛠️ Languages and Tools
 
