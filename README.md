@@ -12,14 +12,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58C7F7&width=435&lines=Hi%2C+it's+TechoDamo%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-## A Beginner Go Developer 🛠️, passionate about high-load & scalable 📈 backend systems ⚙️
+## ML/Systems engineer 🛠️, passionate about high-load & scalable 📈 systems ⚙️
 
 ## 🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,cpp,bash,linux,kubernetes,docker,postgres,mongodb,redis,jenkins,ansible,terraform" />
+  <img src="https://skillicons.dev/icons?i=py,go,cpp,pytorch,tensorflow,bash,linux,kubernetes,docker,postgres,qdrant,ansible,terraform" />
 </p>
 
 <hr>
