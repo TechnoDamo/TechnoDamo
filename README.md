@@ -7,15 +7,13 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Mathematical+ML+%26+AI+Systems;Optimization%2C+Retrieval+%26+Representation+Learning;Turning+theory+into+reliable+ML+systems"
-      alt="Mathematical ML and AI Systems"
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=FACC15&center=true&vCenter=true&width=900&lines=ML+Research"
+      alt="ML Research"
     />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN_TO-ML%20ENGINEERING%20ROLES-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Open to ML engineering roles" />
-  <img src="https://img.shields.io/badge/FOCUS-LLM%20%7C%20RAG%20%7C%20RETRIEVAL-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Focus: LLM, RAG and retrieval" />
   <img src="https://komarev.com/ghpvc/?username=TechnoDamo&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge" alt="Profile views" />
 </p>
 
