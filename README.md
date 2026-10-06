@@ -13,10 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TechnoDamo&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge" alt="Profile views" />
-</p>
-
 ## About me
 
 I’m moving into **ML research**. My background is in systems analysis: I worked as a mid-level systems analyst at a major Russian fintech.
