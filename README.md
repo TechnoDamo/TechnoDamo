@@ -15,7 +15,7 @@
 
 ## About me
 
-I’m moving into **ML research**. My background is in systems analysis: I worked as a mid-level systems analyst at a major Russian fintech.
+I’m moving into **ML research** and currently studying in an entirely English-taught Master’s program in Machine Learning at MIPT. My background is in systems analysis: I worked as a mid-level systems analyst at a major Russian fintech.
 
 ## ML toolbox
 
