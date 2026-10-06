@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/math-ml-banner.png" alt="Mathematical machine learning landscape with optimization paths, probability surfaces and attention geometry" width="100%" />
+  <img src="./assets/math-ml-formulas.png" alt="Machine learning formulas for regularized empirical risk, gradient descent and a Bayesian posterior" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Damir Koblev 👋</h1>
